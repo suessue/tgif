@@ -1,0 +1,126 @@
+.table {
+text-align: center;
+}
+
+.table td:first-of-type {
+text-align: left;
+}
+
+.table th:first-of-type{
+text-align: left;
+}
+
+.page-header {
+padding-top: 50px;
+}
+
+#header {
+margin: 0;
+background-image: url(images/tgif_bg.png);
+background-repeat: repeat;
+height: 230x;
+
+}
+
+#logo {
+width: 230px;
+height: 230px;
+margin-left: 85px;
+
+}
+
+.about p {
+text-align: justify;
+}
+
+#info-box span {
+background-color: white;
+border-radius: 1.5px;
+border-color: black;
+border: solid 1.5px lightslategrey;
+font-size: 18px;
+padding: 4px;
+box-shadow: 1px 1px 1px skyblue;
+}
+
+
+.container h1, h2 {
+color: rgb(58, 73, 158);
+text-align: center;
+padding-top: 50px;
+padding-bottom: 25px;
+}
+
+.container h3 {
+padding-top: 30px;
+padding-bottom: 20px;
+font-size: 20px;
+color: rgb(58, 73, 158);
+font-style: italic;
+text-align: center;
+
+}
+
+
+.loyalty p {
+font-size: 14px;
+text-align: justify;
+}
+
+#glance {
+position: relative;
+margin-top: 60px;
+}
+
+.col-6 img{
+margin-top: 100px;
+padding: 3px;
+border-style: solid;
+border-color: skyblue;
+}
+
+#navbar {
+background-color: #d6e3ec;
+
+
+}
+
+#navbar a{
+color: black;
+padding-left: 40px;
+
+}
+
+footer {
+margin-bottom: 25px;
+margin-top: 10px;
+background-color: #d6e3ec;
+
+}
+
+#collapseExample {
+margin-top: 15px;
+}
+
+#collapseExample p {
+text-align: justify;
+}
+
+.attendance p{
+text-align: justify;
+font-size: 14px;
+}
+
+.table td{
+font-size: 14px;
+}
+
+body div:first-of-type {
+padding-left: 0px;
+padding-right: 0px;
+}
+
+.container div {
+padding-left: auto;
+padding-right: auto;
+}
